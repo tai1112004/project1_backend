@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+th, td,thead,tbody {
+  border: 1px solid black;
+  padding: 8px;
+}
+
